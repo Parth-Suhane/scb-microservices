@@ -1807,3 +1807,231 @@ java.util.concurrent.TimeoutException
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-28 15:21:14.462
 !MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:30.305
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:30.309
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:30.311
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:30.311
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:30.319
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:35.119
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:35.124
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:35.126
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:35.126
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:35.132
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:42.855
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:42.858
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:42.861
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:42.861
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:03:42.865
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:06.827
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:06.830
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:06.831
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:06.832
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:06.836
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:27.470
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:27.473
+!MESSAGE classpath=88 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:27.474
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 88
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:27.474
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:27.480
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:36.317
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:36.322
+!MESSAGE classpath=84 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:36.324
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 84
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:36.324
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:36.328
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:53.774
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:53.776
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:53.778
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:53.778
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:04:53.782
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:05:32.702
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:05:32.705
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:05:32.707
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:05:32.708
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:05:32.732
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:04.154
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:04.156
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:04.158
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:04.159
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:04.163
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-08-30 08:06:35.558
+!MESSAGE The POM for javax.xml.bind:jaxb-api:jar:2.3.3 is missing, no dependency information available
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:35.901
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:35.904
+!MESSAGE classpath=114 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:35.906
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:35.906
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:35.919
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-08-30 08:06:37.029
+!MESSAGE The POM for javax.xml.bind:jaxb-api:jar:2.3.3 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2020-08-30 08:06:38.087
+!MESSAGE Could not download sources for javax.xml.bind:jaxb-api:2.3.3
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.xml.bind:jaxb-api:jar:sources:2.3.3
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:803)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:114)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:771)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:748)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:330)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:304)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:269)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:233)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:161)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Missing javax.xml.bind:jaxb-api:jar:sources:2.3.3
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2020-08-30 08:06:38.087
+!MESSAGE Could not resolve artifact javax.xml.bind:jaxb-api:jar:sources:2.3.3
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2020-08-30 08:06:38.088
+!MESSAGE Missing javax.xml.bind:jaxb-api:jar:sources:2.3.3
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:47.424
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:47.428
+!MESSAGE classpath=115 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:47.430
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 115
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:47.431
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:06:47.436
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:08:54.829
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:08:54.832
+!MESSAGE classpath=113 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:08:54.834
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 113
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:08:54.835
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 08:08:54.839
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.874
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.877
+!MESSAGE classpath=109 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.879
+!MESSAGE buffering callback sts4.classpath.aDujRVzb Boot-Rest-DataJPA false 109
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.880
+!MESSAGE executing callback sts4.classpath.aDujRVzb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.898
+!MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
