@@ -2035,3 +2035,15 @@ Contains: Missing javax.xml.bind:jaxb-api:jar:sources:2.3.3
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-30 22:05:53.898
 !MESSAGE executing callback sts4.classpath.aDujRVzb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-31 13:57:39.939
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aDujRVzb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-31 13:57:39.939
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.aDujRVzb
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-31 13:57:39.940
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-08-31 13:57:39.940
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.aDujRVzb => OK
