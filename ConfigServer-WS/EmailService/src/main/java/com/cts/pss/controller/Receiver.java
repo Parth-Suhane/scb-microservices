@@ -7,6 +7,7 @@ import java.util.Map;
 import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.context.annotation.Bean;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
@@ -14,6 +15,7 @@ import org.springframework.stereotype.Controller;
 
 
 @Controller
+@RefreshScope
 public class Receiver {
 	
 
@@ -37,7 +39,7 @@ public class Receiver {
        
 
         SimpleMailMessage msg = new SimpleMailMessage();
-        msg.setTo("richardsforu@gmail.com", "ctsgit@gmail.com", "praveen.somireddy@gmail.com");
+        msg.setTo("richardsforu@gmail.com", "ctsgit@gmail.com");
 
         String flightNumber=(String)passenger.get("FLIGHT_NUMBER");
         LocalDate flightDate=(LocalDate)passenger.get("DATE");
