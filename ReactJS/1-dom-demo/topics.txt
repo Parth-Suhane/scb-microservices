@@ -1,0 +1,10 @@
+1. react basics
+2. props and state
+3. component communication
+4. functional components
+5. react hooks
+6. Form Handling
+7. Validation 
+8. Router
+9. Redux
+10. Few React Template Libraries
